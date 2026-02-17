@@ -1,6 +1,4 @@
-"""
-Streamlit Web App for Robotic Arm Control via Hand Simulation
-"""
+
 
 import streamlit as st
 import cv2
