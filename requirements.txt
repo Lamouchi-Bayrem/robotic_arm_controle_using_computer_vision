@@ -1,0 +1,14 @@
+streamlit==1.28.1
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+pillow==10.0.1
+matplotlib==3.7.2
+scipy==1.11.3
+pandas==2.0.3
+pygame==2.5.2
+
+
+
+
+
