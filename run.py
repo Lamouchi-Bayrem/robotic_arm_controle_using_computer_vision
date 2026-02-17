@@ -1,6 +1,4 @@
-"""
-Run the Robotic Arm Control Streamlit app
-"""
+
 
 import subprocess
 import sys
