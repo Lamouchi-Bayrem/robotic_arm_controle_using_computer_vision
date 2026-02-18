@@ -1,7 +1,3 @@
-"""
-Robotic Arm Simulation Module
-Simulates robotic arm with inverse kinematics
-"""
 
 import numpy as np
 from typing import Dict, List, Tuple, Optional
