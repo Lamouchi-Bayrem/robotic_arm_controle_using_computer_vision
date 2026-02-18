@@ -1,7 +1,3 @@
-"""
-Visualization Module
-Visualizes robotic arm and hand tracking
-"""
 
 import cv2
 import numpy as np
