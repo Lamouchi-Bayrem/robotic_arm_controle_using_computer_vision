@@ -1,7 +1,4 @@
-"""
-Hand Tracking Module
-Tracks human hand pose for robotic arm control
-"""
+
 
 import cv2
 import mediapipe as mp
