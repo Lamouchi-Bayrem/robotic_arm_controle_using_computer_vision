@@ -11,6 +11,8 @@ from src.robotic_arm import RoboticArm
 from src.visualizer import ArmVisualizer
 
 
+
+
 # Page configuration
 st.set_page_config(
     page_title="Robotic Arm Control",
