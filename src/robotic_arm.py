@@ -3,8 +3,6 @@ from typing import Dict, List, Tuple, Optional
 import math
 
 
-
-
 class RoboticArm:
     """Simulates a robotic arm with inverse kinematics"""
     
